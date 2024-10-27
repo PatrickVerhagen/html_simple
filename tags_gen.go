@@ -648,3 +648,8 @@ func (e *Element) Wbr() *Element {
 func (e *Element) Xmp() *Element {
 	return e.Add(NormalTag("xmp"))
 }
+
+// Script creates a <script> element and adds it to the current element.
+func (e *Element) Script() *Element {
+	return e.Add(NormalTag("script"))
+}
