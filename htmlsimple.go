@@ -1,6 +1,6 @@
 // Package html_simple provides a safe and ergonomic HTML generation library
 // with built-in XSS protection and compile-time HTML structure validation.
-package html_simple
+package htmlsimple
 
 import (
 	"html"

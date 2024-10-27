@@ -1,3 +1,3 @@
-module html_simple
+module htmlsimple
 
 go 1.22.6

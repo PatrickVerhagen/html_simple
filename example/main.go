@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	h "html_simple"
+	h "htmlsimple"
 )
 
 func main() {
